@@ -1,0 +1,2 @@
+-- DROP DATABASE IF EXISTS roadie_db;
+-- CREATE DATABASE roadie_db;
