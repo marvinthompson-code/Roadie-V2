@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3000,
+      "driver": "PostgreSQL",
+      "name": "roadie_db",
+      "database": "roadie_db",
+      "username": "postgres",
+      "password": "Gunm4sta1!",
+      "connectionTimeout": 30
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3000,
+      "driver": "PostgreSQL",
+      "name": "roadie_db",
+      "database": "postgres",
+      "username": "postgres"
+    }
+  ]
+}
